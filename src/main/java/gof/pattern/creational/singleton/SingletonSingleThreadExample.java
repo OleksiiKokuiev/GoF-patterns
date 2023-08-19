@@ -1,6 +1,6 @@
 package main.java.gof.pattern.creational.singleton;
 
-public class DemoSingleThread {
+public class SingletonSingleThreadExample {
 
     public static void main(String[] args) {
         System.out.println("""

@@ -6,7 +6,7 @@ import main.java.gof.pattern.creational.builder.director.Director;
 import main.java.gof.pattern.creational.builder.model.car.Car;
 import main.java.gof.pattern.creational.builder.model.car.Manual;
 
-public class Demo {
+public class BuilderExample {
 
     public static void main(String[] args) {
         Director director = new Director();

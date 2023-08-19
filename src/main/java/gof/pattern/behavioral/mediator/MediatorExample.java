@@ -1,6 +1,6 @@
 package main.java.gof.pattern.behavioral.mediator;
 
-public class Main {
+public class MediatorExample {
 
     public static void main(String[] args) {
 
