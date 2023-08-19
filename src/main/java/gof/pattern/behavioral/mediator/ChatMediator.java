@@ -1,4 +1,4 @@
-package main.java.gof.pattern.behavior.mediator;
+package main.java.gof.pattern.behavioral.mediator;
 
 public interface ChatMediator {
 
